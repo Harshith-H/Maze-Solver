@@ -1,5 +1,5 @@
 #include <iostream>
-#include "stack.cpp"
+#include "stack.h"
 using namespace std;
 #define N 7
 
